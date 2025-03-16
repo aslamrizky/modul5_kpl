@@ -1,5 +1,3 @@
-﻿using System;
-
 class DataGeneric<T>
 {
     private T data;
